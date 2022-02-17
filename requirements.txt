@@ -2,4 +2,4 @@ dicttoxml
 requests
 lxml
 xmltodict
-BeautifulSoup
+bs4
